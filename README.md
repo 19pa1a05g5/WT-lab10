@@ -7,6 +7,8 @@ http://127.0.0.1/PHP%20work/assignment1/lab10.php
 
 I create the table "register_tbl" in mydb database with name,email,password and phonenummber.
 
-using the register form we can insert the data in the table by click the submit button.
+using the register form we can insert the data in the table .
 
-We can view the database table data in the form below. 
+We can view the database table data in the page.
+
+
